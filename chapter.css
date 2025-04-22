@@ -37,7 +37,7 @@
   .chapter-header .course-info {
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: center;
     gap: 1rem;
     font-size: 1.2rem;
   }
@@ -49,7 +49,7 @@
   
   .chapter-header .chapter-number {
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 0.7rem;
     background: #005599;
     padding: 0.3rem 0.6rem;
     border-radius: 8px;
